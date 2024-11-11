@@ -1,4 +1,4 @@
-# Project-Trinity
+# Project-Astroid-Plus
 
 # included modules:
 
